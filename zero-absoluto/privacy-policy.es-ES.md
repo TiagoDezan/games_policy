@@ -24,4 +24,4 @@ En el Área para Padres, toca «Borrar todo el progreso», o elimina la app del 
 
 ## Contacto
 
-Dudas sobre privacidad: CONTATO_A_PREENCHER.
+Dudas sobre privacidad: tiago@dezan.me.

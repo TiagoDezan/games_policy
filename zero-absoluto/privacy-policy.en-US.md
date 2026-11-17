@@ -24,4 +24,4 @@ In the Parent Area, tap “Erase all progress”, or delete the app from the dev
 
 ## Contact
 
-Privacy questions: CONTATO_A_PREENCHER.
+Privacy questions: tiago@dezan.me.

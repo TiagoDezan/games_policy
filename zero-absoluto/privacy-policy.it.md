@@ -24,4 +24,4 @@ Nell'Area Genitori tocca «Cancella tutti i progressi», oppure elimina l'app da
 
 ## Contatti
 
-Domande sulla privacy: CONTATO_A_PREENCHER.
+Domande sulla privacy: tiago@dezan.me.

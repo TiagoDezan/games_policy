@@ -24,4 +24,4 @@ Na Área dos Pais, toque em “Apagar todo o progresso”, ou apague o app do ap
 
 ## Contato
 
-Dúvidas sobre privacidade: CONTATO_A_PREENCHER.
+Dúvidas sobre privacidade: tiago@dezan.me.
