@@ -8,7 +8,7 @@ O Block Quest não coleta, não vende e não compartilha nenhum dado pessoal con
 
 ## O que fica no aparelho
 
-O progresso nos níveis, as estrelas, as melhores pontuações, as conquistas, as estatísticas de jogo usadas para ajustar a dificuldade e as preferências de som e vibração ficam guardados no próprio iPhone ou iPad.
+O progresso nos níveis, as estrelas, as melhores pontuações, as conquistas, os poderes ganhos e usados, as estatísticas de jogo usadas para ajustar a dificuldade e as preferências de música, efeitos sonoros e vibração ficam guardados no próprio iPhone ou iPad.
 
 ## iCloud (opcional)
 
@@ -16,7 +16,7 @@ Se você estiver conectado ao iCloud, o progresso é sincronizado entre seus apa
 
 ## Game Center (opcional)
 
-Se você usar o Game Center, conquistas e pontuações são enviadas ao Game Center da Apple para exibir rankings. Isso é gerido pela Apple, e você pode sair do Game Center a qualquer momento nos Ajustes do aparelho.
+Se você estiver conectado ao Game Center, o jogo envia à sua conta Game Center, na Apple, as conquistas, o total de estrelas e as pontuações do desafio diário, para mostrar conquistas e rankings. Isso é gerido pela Apple, de acordo com a política de privacidade dela, e nós não recebemos esses dados. Você pode desligar o envio em Block Quest > Ajustes > Game Center, ou sair do Game Center nos Ajustes do aparelho.
 
 ## Compra do jogo completo (opcional)
 
@@ -24,7 +24,7 @@ O download é grátis e as primeiras fases podem ser jogadas sem pagar nada. Se 
 
 ## Rede e terceiros
 
-O jogo funciona sem internet; só a compra e a restauração precisam de conexão com a App Store. Não usamos analytics, publicidade, rastreamento, login social nem relatórios de falhas de terceiros.
+O jogo funciona sem internet; só a compra e a restauração (App Store) e o Game Center precisam de conexão. Não usamos analytics, publicidade, rastreamento, login social nem relatórios de falhas de terceiros.
 
 ## Crianças
 
