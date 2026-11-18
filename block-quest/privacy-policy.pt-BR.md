@@ -1,10 +1,10 @@
 # Política de Privacidade · Block Quest
 
-_Última atualização: 17 de novembro de 2026_
+_Última atualização: 18 de novembro de 2026_
 
 ## Resumo
 
-O Block Quest não coleta, não vende e não compartilha nenhum dado pessoal conosco nem com terceiros. Não tem anúncios, compras dentro do app, assinaturas, contas próprias nem ferramentas de rastreamento.
+O Block Quest não coleta, não vende e não compartilha nenhum dado pessoal conosco nem com terceiros. Não tem anúncios, assinaturas, contas próprias nem ferramentas de rastreamento. A única compra dentro do app é o desbloqueio opcional do jogo completo, processado pela Apple.
 
 ## O que fica no aparelho
 
@@ -18,9 +18,13 @@ Se você estiver conectado ao iCloud, o progresso é sincronizado entre seus apa
 
 Se você usar o Game Center, conquistas e pontuações são enviadas ao Game Center da Apple para exibir rankings. Isso é gerido pela Apple, e você pode sair do Game Center a qualquer momento nos Ajustes do aparelho.
 
+## Compra do jogo completo (opcional)
+
+O download é grátis e as primeiras fases podem ser jogadas sem pagar nada. Se você comprar o jogo completo, o pagamento é feito na App Store e processado pela Apple com a sua conta Apple, de acordo com a política de privacidade dela. Nós não recebemos seu nome, e-mail nem dados de pagamento. O app só confere no próprio aparelho, pelo sistema de compras da Apple (StoreKit), se a compra existe, para liberar as fases. Você pode usar "Restaurar compras" para liberar o jogo em outro aparelho com a mesma conta Apple.
+
 ## Rede e terceiros
 
-O jogo funciona totalmente sem internet. Não usamos analytics, publicidade, rastreamento, login social nem relatórios de falhas de terceiros.
+O jogo funciona sem internet; só a compra e a restauração precisam de conexão com a App Store. Não usamos analytics, publicidade, rastreamento, login social nem relatórios de falhas de terceiros.
 
 ## Crianças
 
